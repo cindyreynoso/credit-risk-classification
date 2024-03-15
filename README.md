@@ -1,5 +1,7 @@
 # credit-risk-classification
+
 Credit Risk Analysis Report
+
 An overview of the analysis: Explain the purpose of this analysis.
 The purpose of this analysis is to create and evaluate the accuracy of a data model that predicts the credity worthiness of potential borrowers from peer-to-peer lending services
 The results: Using a bulleted list, describe the accuracy score, the 
